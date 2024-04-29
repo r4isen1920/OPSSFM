@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Suitable for multiplayer as only one player is required to sleep to cycle through the night. Simply apply this Behavior Pack to your world, and it should work with Realms or in LAN.",
+        "name": "§7[v4.2]§r One-player Sleep System [BP]",
+        "uuid": "C70898E6-603E-4044-AF5E-0AC6A920B971",
+        "min_engine_version": [ 1,16,0 ],
+        "version": [0, 4, 2]
+    },    
+    "modules": [
+        {
+            "description": "Created by r4isen. Do not distribute unfairly",
+            "type": "data",
+			"uuid": "6552D110-8A3B-40EA-87AD-DAF03E71200C",
+            "version": [0, 4, 2]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "F7FCEE50-D9DC-4B43-89BE-D77D3FD28B7A", 
+            "version": [0, 4, 2]
+        }
+    ],
+    "metadata": {
+            "authors": [
+			"r4isen1920"
+             ],
+            "url": "https://mcpedl.com/user/r4isen1920"
+     }
+}
