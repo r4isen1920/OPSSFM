@@ -1,30 +1,30 @@
 {
-    "format_version": 1,
-    "header": {
-        "description": "Suitable for multiplayer as only one player is required to sleep to cycle through the night. Simply apply this Behavior Pack to your world, and it should work with Realms or in LAN.",
-        "name": "§7[v4.2] §r One-player Sleep System [RP]",
-        "uuid": "F7FCEE50-D9DC-4B43-89BE-D77D3FD28B7A",
-        "version": [0, 4, 2],
-        "min_engine_version": [1, 2, 6]
-    },    
-    "modules": [
-        {
-            "description": "Created by r4isen. Do not distribute unfairly",
-            "type": "resources",
-			"uuid": "6552D110-8A3B-40EA-87AD-DAF03E71200C",
-            "version": [0, 4, 2]
-        }
-    ],
-    "dependencies": [
-        {
-            "uuid": "C70898E6-603E-4044-AF5E-0AC6A920B971", 
-            "version": [0, 4, 2]
-        }
-    ],
-    "metadata": {
-            "authors": [
-			"r4isen1920"
-             ],
-            "url": "https://mcpedl.com/user/r4isen1920"
-     }
+  "format_version": 2,
+  "header": {
+    "name": "pack.name",
+    "description": "pack.description",
+    "uuid": "66f06410-fce6-46ad-b0c0-271b11830656",
+    "pack_scope": "world",
+    "version": [ 5, 0, 0 ],
+    "min_engine_version": [ 1, 20, 50 ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "description": "Resource Pack",
+      "uuid": "5d0b5cd1-5b35-4997-b0cd-fc4ebb13a5a0",
+      "version": [ 5, 0, 0 ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "9bafb24d-7464-46cb-a567-57dc5554cff7",
+      "version": [ 5, 0, 0 ]
+    }
+  ],
+  "metadata": {
+    "authors": [ "r4isen1920" ],
+    "url": "https://mcpedl.com/user/r4isen1920",
+    "product_type": "addon"
+  }
 }

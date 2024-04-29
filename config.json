@@ -31,14 +31,14 @@
               "buildOptions": {
                 "bundle": true,
                 "entryPoints": [
-                  "data/gametests/src/main.ts"
+                  "data/gametests/src/main.js"
                 ],
                 "format": "esm",
                 "minify": false,
                 "target": "es2020"
               },
               "modules": [
-                "@minecraft/server@1.10.0"
+                "@minecraft/server@1.7.0"
               ],
               "outdir": "BP/scripts/r4isen1920/opssfm",
               "outfile": "BP/scripts/r4isen1920/opssfm/main.js"
@@ -60,14 +60,14 @@
                 "entryPoints": [
                   "data/gametests/src/*.js",
                   "data/gametests/src/**/*.js",
-                  "data/gametests/src/main.ts"
+                  "data/gametests/src/main.js"
                 ],
                 "format": "esm",
                 "minify": false,
                 "target": "es2020"
               },
               "modules": [
-                "@minecraft/server@1.10.0"
+                "@minecraft/server@1.7.0"
               ],
               "outdir": "BP/scripts/r4isen1920/opssfm",
               "outfile": "BP/scripts/r4isen1920/opssfm/main.js"
@@ -85,11 +85,11 @@
             "filter": "gametests",
             "settings": {
               "modules": [
-                "@minecraft/server@1.10.0"
+                "@minecraft/server@1.7.0"
               ],
               "buildOptions": {
                 "entryPoints": [
-                  "data/gametests/src/main.ts"
+                  "data/gametests/src/main.js"
                 ],
                 "bundle": true,
                 "minify": true,
