@@ -1,0 +1,4 @@
+pack.name=§7[v5.0]§r 多人游戏的单人睡眠系统 [RP]
+pack.description=一个简单的附加组件，只需要一名玩家睡觉就能跳到黎明。非常适合多人游戏。由 r4isen1920 创建。
+chat.type.sleeping=%s 现在正在床上睡觉。
+multiplayer.playersSleeping=%s 名玩家正在睡觉

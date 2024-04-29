@@ -1,0 +1,4 @@
+pack.name=§7[v5.0]§r 멀티플레이어용 1인용 수면 시스템 [RP]
+pack.description=새벽으로 건너뛰기 위해 한 명의 플레이어만 잠을 자면 되는 간단한 추가 기능입니다. 멀티플레이어에 적합합니다. r4isen1920에 의해 작성되었습니다.
+chat.type.sleeping=%s는 현재 침대에서 자고 있습니다.
+multiplayer.playersSleeping=%s 플레이어가 자고 있습니다.

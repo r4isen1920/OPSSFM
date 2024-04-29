@@ -1,0 +1,4 @@
+pack.name=§7[v5.0]§r Sistema de suspensión para un jugador para multijugador [RP]
+pack.description=Un complemento simple que requiere que solo un jugador duerma para saltar al amanecer. Perfecto para multijugador. Creado por r4isen1920.
+chat.type.sleeping=%s ahora está durmiendo en una cama.
+multiplayer.playersSleeping=%s jugadores durmiendo

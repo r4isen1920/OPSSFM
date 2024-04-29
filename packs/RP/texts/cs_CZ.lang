@@ -1,0 +1,4 @@
+pack.name=§7[v5.0]§r Systém spánku pro jednoho hráče pro hru pro více hráčů [RP]
+pack.description=Jednoduchý doplněk, který vyžaduje, aby pouze jeden hráč spal, aby mohl přeskočit do úsvitu. Ideální pro multiplayer. Vytvořil r4isen1920.
+chat.type.sleeping=%s nyní spí v posteli.
+multiplayer.playersSleeping=%s hráčů spí

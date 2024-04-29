@@ -1,0 +1,4 @@
+pack.name=§7[v5.0]§r Sistema de sono de um jogador para multijogador [RP]
+pack.description=Um complemento simples que requer que apenas um jogador durma para pular para o amanhecer. Perfeito para multijogador. Criado por r4isen1920.
+chat.type.sleeping=%s agora está dormindo em uma cama.
+multiplayer.playersSleeping=%s jogadores dormindo

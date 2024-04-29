@@ -1,0 +1,4 @@
+pack.name=§7[v5.0]§r Système de veille pour un joueur pour le multijoueur [RP]
+pack.description=Un module complémentaire simple qui nécessite qu'un seul joueur dorme pour passer à l'aube. Parfait pour le multijoueur. Créé par r4isen1920.
+chat.type.sleeping=%s dort maintenant dans un lit.
+multiplayer.playersSleeping=%s joueurs dorment

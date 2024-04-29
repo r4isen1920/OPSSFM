@@ -1,0 +1,4 @@
+pack.name=§7[v5.0]§r System uśpienia dla jednego gracza w trybie wieloosobowym [RP]
+pack.description=Prosty dodatek, który wymaga snu tylko jednego gracza, aby przejść do świtu. Idealny do gry wieloosobowej. Stworzony przez r4isen1920.
+chat.type.sleeping=%s śpi teraz w łóżku.
+multiplayer.playersSleeping=%s graczy śpi

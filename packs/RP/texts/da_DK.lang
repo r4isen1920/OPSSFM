@@ -1,0 +1,4 @@
+pack.name=§7[v5.0]§r One-Player Sleep System for Multiplayer [RP]
+pack.description=En simpel tilføjelse, der kun kræver en spiller til at sove for at springe til daggry. Perfekt til multiplayer. Skabt af r4isen1920.
+chat.type.sleeping=%s sover nu i en seng.
+multiplayer.playersSleeping=%s spillere sover
